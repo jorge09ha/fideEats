@@ -1,0 +1,10 @@
+#1     -Hamburguesa_de_la_casa    c2500
+#2     -Burrito_Loco              c2000
+#3     -Pizza_artesanal           c5500
+#4     -Mariscada_al_Ajillo       c4000
+#5     -Pescado_entero            c8000
+#6     -Taco_Gigante              c1500
+#7     -Gaseosas                  c1100
+#8     -Narturales                c1000
+#9     -Pie_de_Limon              c1200
+#10    -Tres_Leches               c1100
